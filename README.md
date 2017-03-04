@@ -1,6 +1,10 @@
 # digitacity
 ## a road map to living as a cyborg
 
+### part 0: introduction 
+
+- why this project? why now?
+- why this format
 
 ### part 1: critical concepts
 
