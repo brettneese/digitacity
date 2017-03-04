@@ -5,7 +5,7 @@
 ### part 1: critical concepts
 
 - what is a cyborg, anyway?
-- a crasgt
+- a crash course on media theory
 - webs of knowledge: a new way of understanding our world 
 - code: prescribing a fluid universe
 
