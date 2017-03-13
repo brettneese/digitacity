@@ -5,8 +5,6 @@
 - why this project? why now?
 
 ### part 1: critical concepts
-[I'm a relative reference to a repository file](../blob/master/LICENSE)
-
 - [what is a cyborg, anyway?] (../part1/what is a cyborg/index.md) 
 - a crash course on media theory
 - webs of knowledge: a new way of understanding our world 
