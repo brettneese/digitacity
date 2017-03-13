@@ -5,13 +5,14 @@
 - why this project? why now?
 
 ### part 1: critical concepts
+[I'm a relative reference to a repository file](../blob/master/LICENSE)
 
-- what is a cyborg, anyway?
+- [what is a cyborg, anyway?] (../part1/what is a cyborg/index.md) 
 - a crash course on media theory
 - webs of knowledge: a new way of understanding our world 
 - code: prescribing a fluid universe
 
-### part 2: our lives as cyborgs
+### part 2: notes on our lives as cyborgs
 - hypertext
 - fake news: hypertext as text gone viral
 - bitcoin: finance in the cyborg future
