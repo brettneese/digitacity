@@ -5,7 +5,7 @@
 - why this project? why now?
 
 ### part 1: critical concepts
-- [what is a cyborg, anyway?] (../part1/what is a cyborg/index.md) 
+- [what is a cyborg, anyway?](./part1/what is a cyborg/index.md) 
 - a crash course on media theory
 - webs of knowledge: a new way of understanding our world 
 - code: prescribing a fluid universe
