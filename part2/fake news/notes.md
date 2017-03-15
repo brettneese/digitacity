@@ -1,3 +1,4 @@
+# Notes on Fake News
 
 in the Columbia Journalism Review, Yochai Benkler, Robert Faris, Hal Roberts, and Ethan Zuckerman — basically everyone who’s ever said anything moderately useful about the Internet — have a new piece dissecting the information/media ecosystem during the 2016 election. while the data itself is concerning though not surprising: they conclude, essentially, that Breitbart and right-wing media sources formed a “internally coherent, relatively insulated knowledge community, reinforcing the shared worldview of readers.” 
 
