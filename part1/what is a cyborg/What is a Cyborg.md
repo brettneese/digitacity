@@ -1,3 +1,7 @@
+---
+title: What is a Cyborg
+category: part 1
+---
 
 In our books and movies, we were warned about the cyborgs. Told of the day that the cyborgs would magically appear and suddenly rule our lives. Told about mighty struggles against the machines. Told about the ethics we should have in place for when the abstract cyborg uprising came. We were never told, however, about how to know when that day finally occurred.
 
@@ -7,13 +11,13 @@ By this she means simply that the fundamental structures that grounded a sense s
 
 > The cyborg is our ontology; it gives us our politics. The cyborg is a condensed image of both imagination and material reality, the two joined centers structuring nay possibility of historical transformation. In the “traditions of ‘Western’ science and politics — the tradition of the racist, male-dominant capitalism; the tradition of progress; the tradition of the appropriation of nature as resource for the the productions of culture; the tradition of reproduction of the self from the reflections of the other — the relationship between organism and machine has been a border war. The states in the border war have been the territories of production, reproduction, and imagination. 
 
-This notion of humans as cyborgs stands in stark contrast to the pre-cyborg human, the Marshall McLuhanian textual “Gutenberg man.” Text, notes McLuhan, is rigid: it exists within the confines of the text itself. Interpreting text is itself a solitary experience. Unlike oral traditions, it exists outside of community and within the confines of the singular reader: and, often, entirely within their mind. It is also linear: reading a book is a journey from one line to another, in order.  
+This notion of humans as cyborgs stands in stark contrast to the pre-cyborg human, the Marshall McLuhanian, textual “Gutenberg man.” Text, notes McLuhan, is rigid: it exists within the confines of the text itself. Interpreting text is itself a solitary experience. Unlike oral traditions, it exists outside of community and within the confines of the singular reader: and, often, entirely within their mind. It is also linear: reading a book is a journey from one line to another, in order.  
 
 And it’s not just the printing press that structured modern society in this way. For McLuhan, the phonetic alphabet itself is the foundation of Western civilization:
 
 > it can be argued, then, that the phonetic alphabet, alone, is the technology that has been the means of creating ‘civilized man’ - the separate individuals equal before a written code of law… separateness of the individual, continuity of space and of time, and uniformity of codes are the prime marks of literate and civilized societies.
 
-For McLuhan, the phonetic alphabet is the technology that “releases” the individual from the communitarian society. To be clear, this “has nothing to do with the content of the alphabetized words; it is a result of the sudden breach between the auditory and the visual experience of man.” The phonetic alphabet is the core of the project of alienation Western society has embarked on since it’s invention: it “diminishes the role of the other senses of sound and touch and taste in any literature culture;” it erodes “a rich store of inclusive perception in depth of experience;” it makes “all situations uniform and continuous;” it “endows men with the means of suppressing their feelings and emotions when engaged in action.”
+Through a McLuhanian lens, the phonetic alphabet is the technology that “releases” the individual from the communitarian society. To be clear, this “has nothing to do with the content of the alphabetized words; it is a result of the sudden breach between the auditory and the visual experience of man.” The phonetic alphabet is the core of the project of alienation Western society has embarked on since its invention: it “diminishes the role of the other senses of sound and touch and taste in any literature culture;” it erodes “a rich store of inclusive perception in depth of experience;” it makes “all situations uniform and continuous;” it “endows men with the means of suppressing their feelings and emotions when engaged in action.”
 
 It even permanently shifted our expressions of consciousness itself. As McLuhan notes:
  
