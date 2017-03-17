@@ -6,8 +6,8 @@
 - [why is this on github?](./part0/why%20github)
 
 ### part 1: critical concepts
-- [what is a cyborg, anyway?](./part1/what is a cyborg)
+- [what is a cyborg, anyway?](./part1/what%20is%20a%20cyborg)
 
 ### part 2: notes on our lives as cyborgs
-- [fake news](./part2/notes on fake news)
+- [fake news](./part2/notes%20on%20fake%20news)
 - [WALL-E: a glimpse at a communitarian politics for the cyborg age](https://brettneese.wordpress.com/2016/11/22/the-communitarian-politics-of-wall%C2%B7e/)
