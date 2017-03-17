@@ -11,7 +11,6 @@ Plus, because I’m hosting it on GitHub, I can take advantage of all the collab
 " target="_blank"><img src="http://img.youtube.com/vi/w3jLJU7DT5E/0.jpg" 
 alt="How Github Works" width="240" height="180" border="10" /></a>
 
-
 With that said: pull requests are definitely welcome! I’d love to expand the opportunity to collaborate around this project’s fundamental question: how do we live our lives now that we’re cyborgs?
 
 [1]:	https://www.ted.com/talks/clay_shirky_how_the_internet_will_one_day_transform_government
