@@ -1,3 +1,4 @@
+# Why is this published on GitHub?
 
 This project is difficult in that it attempts to make sense of a new social reality while being forced to use the structures of the older social realities. That irony; that dialectic; that argument will continuously violently reveal itself throughout this piece. It’s not clear how I will say much of anything critical or coherent at all.
 

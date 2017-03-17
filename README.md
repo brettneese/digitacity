@@ -2,7 +2,7 @@
 ## a road map to living as a cyborg
 
 ### part 0: introduction
-- [why this project? why now?](./part0/why%20this%20project%20-%20why%20now)
+- [preface](./part0/preface)
 - [why is this on github?](./part0/why%20github)
 
 ### part 1: critical concepts
