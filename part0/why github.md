@@ -7,7 +7,10 @@ Git, really, is the perfect tool for the kind of thinking necessary for the netw
 
 Plus, because I’m hosting it on GitHub, I can take advantage of all the collaboration features Git and GitHub provide: I can use structures like branches, pull requests, and maybe even Git’s issue tracking and wiki functionality to attempt to organize many chaotic thoughts on this quite expansive project. 
 
-<iframe width="854" height="480" src="https://www.youtube.com/embed/w3jLJU7DT5E" frameborder="0" allowfullscreen></iframe>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=w3jLJU7DT5E
+" target="_blank"><img src="http://img.youtube.com/vi/w3jLJU7DT5E/0.jpg" 
+alt="How Github Works" width="240" height="180" border="10" /></a>
+
 
 With that said: pull requests are definitely welcome! I’d love to expand the opportunity to collaborate around this project’s fundamental question: how do we live our lives now that we’re cyborgs?
 
