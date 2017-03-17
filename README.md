@@ -3,7 +3,7 @@
 
 ### part 0: introduction
 - [why this project? why now?](./part0/why%20this%20project%20-%20why%20now)
-- [why is this on github?][2] (./part0/why%20github.md)
+- [why is this on github?](./part0/why%20github.md)
 
 ### part 1: critical concepts
 - [what is a cyborg, anyway?](./part1/what is a cyborg) 
