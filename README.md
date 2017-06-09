@@ -20,7 +20,7 @@ _Understanding the reality we inhabit._
 - [WALL-E: a glimpse at a communitarian politics for the cyborg age][6]
 
 ### part 3: applied digitacity 
-_Artwork and errata_
+_Artwork and errata._
 
 - [Art Manifesto Bot][7] - a bot that writes art manifestos. Updates daily, usually.
 - [webcomponent-jsondata][8] - a webcomponent I built for some of the pages in this project.
