@@ -13,7 +13,7 @@ _Outlining essential ideas._
 - [what is a cyborg, anyway?][3]
 
 ### part 2: notes on our lives as cyborgs
-_Understanding the reality we inhabit._
+_Understanding the cyborg reality._
 
 - [fake news][4]
 - [memes: communicating with cyborgs][5]
